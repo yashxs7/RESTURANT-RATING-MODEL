@@ -145,6 +145,6 @@ zomato-rating-prediction/
 
 ## 👤 Author
 
-**Yash** — AIML Engineering Student | Restaurant Owner ([Wood N Smoke](https://instagram.com/woodnsmoke), Jodhpur)
+**Yash** — AIML Engineering Student | Restaurant Owner ([Wood N Smoke](https://www.instagram.com/woodn.smoke/), Jodhpur)
 
 *This project is part of my ML portfolio. I also run a wood-fired pizza restaurant, so predicting what makes customers rate restaurants highly is more than just an academic exercise for me.*
